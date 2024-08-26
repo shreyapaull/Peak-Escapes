@@ -1,0 +1,19 @@
+ h6{
+    color: #ffffff ;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+}
+/* #pack{
+    background-color: #007BFF;
+}
+#exp{
+    background-color: #28A745;
+}
+#book{
+    background-color: #DAA520;
+} */
+.dropdown-menu li{
+    color: white;
+}
+.float-right{
+    float: right;
+}

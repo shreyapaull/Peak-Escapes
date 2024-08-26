@@ -1,0 +1,22 @@
+/* .col-md-7 h2 p{
+ justify-content: center;
+ align-items: center;
+ 
+}
+.row .featurette my-5 justify-content-center align-items-center{
+ width: 43.333%;
+}
+.col-md-7 {
+    width: 43.333%;
+}
+.col-md-7 .order-md-2 h2 p{
+    justify-content: center;
+    align-items: center;
+    color: aqua;
+}
+.featurette-heading fw-normal lh-1{
+    color: aqua;
+} */
+.float-right{
+    float: right;
+}
